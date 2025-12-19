@@ -1,0 +1,1 @@
+# seat-map-frontend-task-assignment
